@@ -8,5 +8,3 @@ Sou um desenvolvedor focado em alta produtividade e na criação de soluções i
 - 🔭 Atualmente trabalhando em: `[AngelClient]`
 - 🤖 Ferramentas de IA favoritas: `[Claude, Kiro, Gemini]`
 - ⚡ Curiosidade: Eu passo mais tempo refinando a arquitetura e os prompts do que caçando pontos e vírgulas.
-
--
